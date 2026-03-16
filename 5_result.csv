@@ -1,0 +1,13 @@
+city,total_rides,cancelled_rides,cancellation_rate
+Chicago,4458,936,0.21
+Calgary,4460,935,0.2096
+Toronto,4464,921,0.2063
+San Francisco,4430,907,0.2047
+Montreal,4377,893,0.204
+Ottawa,4536,910,0.2006
+New York,4165,829,0.199
+Los Angeles,4296,853,0.1986
+Vancouver,4329,855,0.1975
+Boston,4446,867,0.195
+N.Y,196,37,0.1888
+L.A,109,18,0.1651

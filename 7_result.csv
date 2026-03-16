@@ -1,0 +1,37 @@
+city,driver_id,driver_name,revenue
+Boston,1176,Driver_1176,448.40000000000003
+Boston,286,Driver_286,326.58
+Boston,1141,Driver_1141,315.88
+Calgary,1980,Driver_1980,476.90999999999997
+Calgary,1059,Driver_1059,346.86
+Calgary,404,Driver_404,338.79999999999995
+Chicago,413,Driver_413,449.45
+Chicago,1410,Driver_1410,421.9
+Chicago,1941,Driver_1941,331.53
+L.A,1241,Driver_1241,128.82999999999998
+L.A,1533,Driver_1533,80.53
+L.A,1980,Driver_1980,79.62
+Los Angeles,448,Driver_448,373.2900000000001
+Los Angeles,761,Driver_761,371.91
+Los Angeles,287,Driver_287,334.24
+Montreal,163,Driver_163,377.87
+Montreal,1328,Driver_1328,341.06
+Montreal,541,Driver_541,337.0
+N.Y,1231,Driver_1231,114.0
+N.Y,286,Driver_286,110.07000000000001
+N.Y,837,Driver_837,106.32
+New York,681,Driver_681,338.40999999999997
+New York,1910,Driver_1910,303.01
+New York,148,Driver_148,284.32
+Ottawa,418,Driver_418,358.1
+Ottawa,76,Driver_76,353.81
+Ottawa,645,Driver_645,309.7
+San Francisco,286,Driver_286,354.75
+San Francisco,13,Driver_13,352.62000000000006
+San Francisco,1626,Driver_1626,352.13
+Toronto,988,Driver_988,380.56
+Toronto,372,Driver_372,363.52000000000004
+Toronto,383,Driver_383,322.63
+Vancouver,1924,Driver_1924,365.35
+Vancouver,508,Driver_508,358.06
+Vancouver,578,Driver_578,329.28

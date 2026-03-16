@@ -1,0 +1,11 @@
+ride_id,driver_name,rider_name,pickup_city,dropoff_city,distance_km,payment_method
+37986,Driver_1774,Rider_292,Calgary,Los Angeles,30.0,voucher
+46411,Driver_1886,Rider_6131,Ottawa,Vancouver,30.0,voucher
+368,Driver_862,Rider_2993,Los Angeles,Toronto,29.99,cash
+8161,Driver_1574,Rider_9364,Boston,Toronto,29.99,paypal
+9112,Driver_1406,Rider_3294,New York,Toronto,29.99,cash
+16530,Driver_52,Rider_9784,Vancouver,Ottawa,29.99,card
+24170,Driver_1093,Rider_7646,Calgary,Boston,29.99,cash
+24365,Driver_1000,Rider_8405,Chicago,San Francisco,29.99,paypal
+27480,Driver_1832,Rider_7213,Ottawa,New York,29.99,voucher
+28197,Driver_1343,Rider_9618,Calgary,New York,29.99,cash

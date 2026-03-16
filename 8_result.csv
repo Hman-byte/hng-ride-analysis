@@ -1,0 +1,3 @@
+driver_id,driver_name,completed_rides,avg_rating,cancellation_rate,revenue
+1005,Driver_1005,31,4.8,0.0313,1470.17
+1181,Driver_1181,31,4.6,0.0313,1373.96
